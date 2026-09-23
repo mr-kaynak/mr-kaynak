@@ -5,7 +5,7 @@ I focus on architecture design, distributed and scalable systems, SRE principles
 
 
 
-#### I love Linux — but I use a Mac, because… I have a Mac.
+
 https://mrkaynak.com
 
 <br />
